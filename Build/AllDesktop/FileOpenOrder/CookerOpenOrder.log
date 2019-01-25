@@ -1573,6 +1573,7 @@
 "../../../Engine/Content/VT/LightmapVirtualTextureSpace_2_Uncompressed.uasset" 1572
 "../../../Engine/Content/VT/LightmapVirtualTextureSpace_3_Compressed.uasset" 1573
 "../../../Engine/Content/VT/LightmapVirtualTextureSpace_3_Uncompressed.uasset" 1574
+<<<<<<< HEAD
 "../../../../../Unreal Projects/MyProject7/Content/Geometry/Meshes/CubeMaterial.uasset" 1575
 "../../../../../Unreal Projects/MyProject7/Content/Geometry/Meshes/1M_Cube.uasset" 1576
 "../../../../../Unreal Projects/MyProject7/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1577
@@ -1683,6 +1684,118 @@
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1682
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1683
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1684
+=======
+"../../../../../GitHub Repository/RollerBallGame/Content/Geometry/Meshes/CubeMaterial.uasset" 1575
+"../../../../../GitHub Repository/RollerBallGame/Content/Geometry/Meshes/1M_Cube.uasset" 1576
+"../../../../../GitHub Repository/RollerBallGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1577
+"../../../../../GitHub Repository/RollerBallGame/Content/Geometry/Meshes/TemplateFloor.uasset" 1578
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Materials/BaseMaterial.uasset" 1579
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Materials/GrayMaterial.uasset" 1580
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Materials/GrayMetalMaterial.uasset" 1581
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/RollingOverview.uasset" 1582
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_MacroVariation.uasset" 1583
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1584
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1585
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1586
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Materials/PM_Ball.uasset" 1587
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Materials/M_Blue_Checker.uasset" 1588
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Meshes/BallMesh.uasset" 1589
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/HUDAssests/neuropol_x_rg.uasset" 1590
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/HUDAssests/neuropol_x_rg_Font.uasset" 1591
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/LoadingScreen.uasset" 1592
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/PauseMenuWidget.uasset" 1593
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/PlayerBall.uasset" 1594
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1595
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1596
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1597
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1598
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_Coin.uasset" 1599
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/Coin.uasset" 1600
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_MovingBlock.uasset" 1601
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/MovingBlock.uasset" 1602
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/PhysicsBallBP.uasset" 1603
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/Level1.uasset" 1604
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1605
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1606
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_400x300.uasset" 1607
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_400x400.uasset" 1608
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_500x500.uasset" 1609
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1610
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1611
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Collapse01.uasset" 1612
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Collapse02.uasset" 1613
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Explosion01.uasset" 1614
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Explosion02.uasset" 1615
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Fire01.uasset" 1616
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1617
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Light01.uasset" 1618
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Light01_Cue.uasset" 1619
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Light02.uasset" 1620
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Light02_Cue.uasset" 1621
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Smoke01.uasset" 1622
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Starter_Birds01.uasset" 1623
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Starter_Wind05.uasset" 1624
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Starter_Wind06.uasset" 1625
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Steam01.uasset" 1626
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Explosion_Cue.uasset" 1627
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Burst_M.uasset" 1628
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1629
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1630
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1631
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1632
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1633
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1634
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1635
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1636
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/P_Explosion.uasset" 1637
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1638
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1639
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1640
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Bush_D.uasset" 1641
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Bush_N.uasset" 1642
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Bush.uasset" 1643
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Bush.uasset" 1644
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Chair_M.uasset" 1645
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Chair_N.uasset" 1646
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Chair.uasset" 1647
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Couch.uasset" 1648
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Glass.uasset" 1649
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Door_M.uasset" 1650
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Door_N.uasset" 1651
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Door.uasset" 1652
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Door.uasset" 1653
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1654
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1655
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1656
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1657
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1658
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1659
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1660
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Rock.uasset" 1661
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Rock.uasset" 1662
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Shelf_M.uasset" 1663
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Shelf_N.uasset" 1664
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1665
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Shelf.uasset" 1666
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1667
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Stairs.uasset" 1668
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Cone.uasset" 1669
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1670
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1671
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1672
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1673
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1674
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Plane.uasset" 1675
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Torus.uasset" 1676
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Trim.uasset" 1677
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1678
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1679
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1680
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Tube.uasset" 1681
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1682
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1683
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1684
+>>>>>>> 444a95a34cf9bb39ecfa43e8a1d06558f10b3531
 "../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1685
 "../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1686
 "../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1687
@@ -1851,6 +1964,7 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1850
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1851
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1852
+<<<<<<< HEAD
 "../../../../../Unreal Projects/MyProject7/Content/RollingBP/Blueprints/FinishedLevel.uasset" 1853
 "../../../../../Unreal Projects/MyProject7/Content/RollingBP/Blueprints/BP_EndPlatform.uasset" 1854
 "../../../../../Unreal Projects/MyProject7/Content/RollingBP/Blueprints/BP_RotatingBlock.uasset" 1855
@@ -1876,10 +1990,38 @@
 "../../../../../Unreal Projects/MyProject7/Content/RollingBP/Maps/Level1.umap" 1875
 "../../../../../Unreal Projects/MyProject7/Content/RollingBP/Maps/Level2.umap" 1876
 "../../../../../Unreal Projects/MyProject7/Content/RollingBP/Maps/Level3_BuiltData.uasset" 1877
+=======
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/FinishedLevel.uasset" 1853
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_EndPlatform.uasset" 1854
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_RotatingBlock.uasset" 1855
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/HUDAssests/HUDDeathElement.uasset" 1856
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/PlayerHUDWidget.uasset" 1857
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_PlayerHud.uasset" 1858
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/3rd_Prototype_-_Feel_So_Good__NCS_Release_.uasset" 1859
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/Distrion___Electro-Light_-_Drakkar__NCS_Release_.uasset" 1860
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/Elektronomia_-_Heaven__NCS_Release_.uasset" 1861
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/Elektronomia_-_Limitless__NCS_Release_.uasset" 1862
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/ELPORT_x_VYMVN_-_Power__NCS_Release_.uasset" 1863
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/Geoxor_-_You___I__NCS_Release_.uasset" 1864
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/Julius_Dreisig___Zeus_X_Crona_-_Invisible__NCS_Release_.uasset" 1865
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/NIVIRO_-_Dancin___NCS_Surround_Release_.uasset" 1866
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/AudioAssests/Raven___Kreyn_-_Muffin__NCS_Release_.uasset" 1867
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Starter_Music01.uasset" 1868
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/RollingGameMode.uasset" 1869
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level1_BuiltData.uasset" 1870
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1871
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1872
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1873
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1874
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level1.umap" 1875
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level2.umap" 1876
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level3_BuiltData.uasset" 1877
+>>>>>>> 444a95a34cf9bb39ecfa43e8a1d06558f10b3531
 "../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 1878
 "../../../Engine/Content/EditorResources/TilePatine_D.uasset" 1879
 "../../../Engine/Content/EditorResources/TilePatine_N.uasset" 1880
 "../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 1881
+<<<<<<< HEAD
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1882
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1883
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1884
@@ -1933,6 +2075,61 @@
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1932
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1933
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1934
+=======
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1882
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1883
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1884
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1885
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1886
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Frame_M.uasset" 1887
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Frame_N.uasset" 1888
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Frame.uasset" 1889
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level3.umap" 1890
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_RotatingCylinder.uasset" 1891
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level4.umap" 1892
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_Elevator.uasset" 1893
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1894
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1895
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1896
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1897
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1898
+"../../../Engine/Content/EngineMaterials/OrientParticle.uasset" 1899
+"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset" 1900
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/BP_ElevatorParticles.uasset" 1901
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Level5.umap" 1902
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/MainMenuController.uasset" 1903
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/Level1MapImage.uasset" 1904
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/Level3MapImage.uasset" 1905
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/Level4Thumbnail.uasset" 1906
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/LevelSelectButton.uasset" 1907
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/MenuBackground.uasset" 1908
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/QuitGameButton.uasset" 1909
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/MenuAssests/TutorialMapImage.uasset" 1910
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/MainMenuWudget.uasset" 1911
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/MainMenuHUD.uasset" 1912
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Blueprints/MenuGameMode.uasset" 1913
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/MainMenu.umap" 1914
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Tutorial_BuiltData.uasset" 1915
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1916
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1917
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1918
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1919
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1920
+"../../../../../GitHub Repository/RollerBallGame/Content/Rolling/Materials/OrangeMetalMaterial.uasset" 1921
+"../../../../../GitHub Repository/RollerBallGame/Content/RollingBP/Maps/Tutorial.umap" 1922
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1923
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1924
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1925
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1926
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1927
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1928
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1929
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1930
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1931
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1932
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1933
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1934
+>>>>>>> 444a95a34cf9bb39ecfa43e8a1d06558f10b3531
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1935
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1936
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1937
@@ -1940,6 +2137,7 @@
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1939
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1940
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1941
+<<<<<<< HEAD
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1942
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Maps/Advanced_Lighting.umap" 1943
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1944
@@ -2090,3 +2288,155 @@
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2089
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2090
 "../../../../../Unreal Projects/MyProject7/Content/StarterContent/Maps/StarterMap.umap" 2091
+=======
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1942
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Maps/Advanced_Lighting.umap" 1943
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1944
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1945
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1946
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1947
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Statue_M.uasset" 1948
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Statue_N.uasset" 1949
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1950
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Floor_400x400.uasset" 1951
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1952
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Chair.uasset" 1953
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Statue.uasset" 1954
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Statue.uasset" 1955
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_TableRound_M.uasset" 1956
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_TableRound_N.uasset" 1957
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1958
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_TableRound.uasset" 1959
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Maps/Minimal_Default.umap" 1960
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Fire01_Cue.uasset" 1961
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1962
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1963
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1964
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Water_N.uasset" 1965
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1966
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1967
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/P_Fire.uasset" 1968
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1969
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1970
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/P_Smoke.uasset" 1971
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1972
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1973
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Spark_Core.uasset" 1974
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1975
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/P_Sparks.uasset" 1976
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1977
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Steam01_Cue.uasset" 1978
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1979
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1980
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Lamp_M.uasset" 1981
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Lamp_N.uasset" 1982
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1983
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1984
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1985
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1986
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1987
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1988
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1989
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1990
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1991
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1992
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1993
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1994
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1995
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1996
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1997
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1998
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1999
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2000
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2001
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2002
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2003
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2004
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2005
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2006
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2007
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2008
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2009
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2010
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2011
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2012
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2013
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2014
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2015
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2016
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2017
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2018
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2019
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2020
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2021
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2022
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2023
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2024
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2025
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2026
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2027
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2028
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2029
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2030
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2031
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2032
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2033
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2034
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2035
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2036
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2037
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2038
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2039
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2040
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2041
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2042
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2043
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2044
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2045
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2046
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2047
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2048
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2049
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2050
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2051
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2052
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2053
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2054
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2055
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2056
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2057
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2058
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2059
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2060
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2061
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Water_Lake.uasset" 2062
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Water_M.uasset" 2063
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2064
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2065
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2066
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2067
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2068
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2069
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2070
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2071
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2072
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_400x200.uasset" 2073
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2074
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2075
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Collapse_Cue.uasset" 2076
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2077
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2078
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2079
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2080
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/MaterialSphere.uasset" 2081
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_CornerFrame.uasset" 2082
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_DoorFrame.uasset" 2083
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_GlassWindow.uasset" 2084
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_PillarFrame.uasset" 2085
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2086
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Props/SM_WindowFrame.uasset" 2087
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Cube.uasset" 2088
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2089
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2090
+"../../../../../GitHub Repository/RollerBallGame/Content/StarterContent/Maps/StarterMap.umap" 2091
+>>>>>>> 444a95a34cf9bb39ecfa43e8a1d06558f10b3531
